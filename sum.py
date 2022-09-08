@@ -11,3 +11,5 @@ if __name__ == "__main__":
     n = input()
     print("input ",n)
     print("total "n_sum(int(n)))
+
+    #finish
